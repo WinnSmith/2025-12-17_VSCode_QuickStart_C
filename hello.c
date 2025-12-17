@@ -8,5 +8,6 @@ int main() {
     printf("The square root of %.2f is %.2f\n", num, result);
     printf("Hello, World!\n");
 
+    // 添加了一句注释
     return 0;
 }
