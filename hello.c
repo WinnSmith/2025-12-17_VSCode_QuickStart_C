@@ -6,5 +6,7 @@ int main() {
     scanf("%lf", &num);
     result = sqrt(num);
     printf("The square root of %.2f is %.2f\n", num, result);
+    printf("Hello, World!\n");
+
     return 0;
 }
