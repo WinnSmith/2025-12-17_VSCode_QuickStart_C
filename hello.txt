@@ -1,2 +1,2 @@
-I am a text.
+I am a main text.
 
